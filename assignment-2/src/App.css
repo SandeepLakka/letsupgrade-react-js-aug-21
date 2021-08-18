@@ -1,0 +1,12 @@
+
+.Cards {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.AppData {
+  border-style: double;
+  margin: 5px;
+  text-align: center;
+}
