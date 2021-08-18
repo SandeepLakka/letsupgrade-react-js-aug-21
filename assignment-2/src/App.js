@@ -39,7 +39,7 @@ function App() {
       </div>
       <div className="Cards">
         {cardsData.map((card,index) => (
-          <Card image={card.image} title={card.title}
+          <Card  key={index} image={card.image} title={card.title}
           subtitle={card.subtitle} description={card.description}/>
         ))}
       </div>
