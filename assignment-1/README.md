@@ -7,7 +7,10 @@ Create two components and and merge both on app component.
 ## How to run:
 
 In this project directory, run the following command:
+Run the following to install dependencies( for the first time )
+### `npm i`
 
+Run the following to run application
 ### `npm start`
 
 Open http://localhost:3000 to view the output in the browser.
